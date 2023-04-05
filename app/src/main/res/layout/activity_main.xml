@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:text="SAVE"
         android:translationX="150dp"
-        android:translationY="540dp" />
+        android:translationY="400dp" />
 
     <Button
         android:id="@+id/btLoad"
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:text="LOAD"
         android:translationX="150dp"
-        android:translationY="550dp" />
+        android:translationY="450dp" />
 
     <EditText
         android:id="@+id/etName"
@@ -58,7 +58,4 @@
         android:ems="10"
         android:inputType="textPersonName" />
 
-    <com.google.android.material.textfield.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
 </LinearLayout>
